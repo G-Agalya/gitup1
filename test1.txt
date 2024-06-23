@@ -1,1 +1,2 @@
-my first text in Gitup
+my first text in gitup is used
+
